@@ -51,7 +51,7 @@ lib/
 
 The application can be installed and tested on Android devices using the link below:
 
-**[Download Fitness App APK (Debug Build)](build/app/outputs/flutter-apk/app-debug.apk)**
+**[Download Fitness App APK (Debug Build)](build/app/outputs/flutter-apk/app-release.apk)**
 
 ---
 *Created with focus on premium aesthetics and user experience.*
