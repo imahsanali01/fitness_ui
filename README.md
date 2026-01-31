@@ -49,8 +49,9 @@ lib/
 
 *(Note: Real screenshots should be captured from the running device/emulator)*
 
+https://github.com/user-attachments/assets/696502a1-f2d3-4cb1-93f0-78d19fd22d43
 
-Uploading Screen Recording 2026-01-31 at 12.29.18 PM.mp4…
+
 
 
 ## 4. App Video
