@@ -49,6 +49,10 @@ lib/
 
 *(Note: Real screenshots should be captured from the running device/emulator)*
 
+
+Uploading Screen Recording 2026-01-31 at 12.29.18 PM.mp4…
+
+
 ## 4. App Video
 
 *Video demonstration showing the interactive flow, haptic response, and smooth transitions:*
