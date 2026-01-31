@@ -29,6 +29,16 @@ lib/
 
 - **`assets/`**: Contains custom UI assets including mood images and sound effects.
 
+| Screenshot 1 | Screenshot 2 |
+| :---: | :---: |
+| ![Screenshot 1](downloadable/Screenshot_1769844454.png) | ![Screenshot 2](downloadable/Screenshot_1769844463.png) |
+
+| Screenshot 3 | Screenshot 4 |
+| :---: | :---: |
+| ![Screenshot 3](downloadable/Screenshot_1769844467.png) | ![Screenshot 4](downloadable/Screenshot_1769844505.png) |
+
+<video src="downloadable/Screen Recording 2026-01-31 at 12.29.18 PM.mov" controls width="640"></video>
+
 ## 3. App Screenshots
 
 *Screenshots demonstrating the high-fidelity UI implementation:*
